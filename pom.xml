@@ -10,7 +10,7 @@
 	<name>Template Workflows</name>
 	<groupId>org.jenkins.plugin.templateWorkflows</groupId>
 	<artifactId>template-workflows</artifactId>
-	<version>1.2.1-SNAPSHOT</version>
+	<version>1.2.2-SNAPSHOT</version>
 	<packaging>hpi</packaging>
 
 	<dependencies>
