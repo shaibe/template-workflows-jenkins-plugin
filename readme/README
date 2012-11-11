@@ -1,0 +1,4 @@
+in order to release the plugin:
+1) change the version to SHANPSHOT
+2) install github for windows (cmd should have the git command) https://code.google.com/p/msysgit/
+3) add PATH variable (in the env tab) pointing to "C:\Program Files (x86)\Git\bin"
